@@ -1,0 +1,14 @@
+* {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.header-style {
+    height: 70px;
+    background-color: #AAD6EC;
+}
+
+.maroon-color {
+    color: #ff5e4f;
+}
